@@ -1,0 +1,15 @@
+{
+    "llm": {
+      "selected": "cerebras",
+      "models": ["OpenAI", "cerebras", "aws"]
+    },
+    "tts": {
+    "selected_provider": "cartesia",
+    "selected_voice": "Kajal",
+    "providers": {
+      "Polly": ["Aditi", "Kajal"],
+      "ElevenLabs": ["Bella", "Adam"],
+      "cartesia": ["WaveNet-A", "WaveNet-B"]
+    }
+  }
+}

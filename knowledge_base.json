@@ -1,0 +1,183 @@
+{
+    "company_info": {
+        "name": "Propeller Global Ventures Pvt Limited",
+        "address": {
+            "street": "B1-401, Kanakia Boomerang, Chandivali Road, Powai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "postal_code": "400072"
+        },
+        "contact": {
+            "phone": [
+                "+91 90213 42078",
+                "+91 91374 25804"
+            ],
+            "gstin": "27AAOCP1773E1Z7"
+        },
+        "policies": [
+            {
+                "title": "Confidentiality & Intellectual Property Policy",
+                "details": {
+                    "title": "Confidentiality & Intellectual Property Policy",
+                    "overview": "Applies to all employees, contractors, and consultants. Governs handling, disclosure, and protection of confidential information and intellectual property.",
+                    "definitions": {
+                        "confidential_information": "Data, business strategies, software code, designs, financial data, etc., not publicly available.",
+                        "intellectual_property": "Inventions, software, designs, trademarks, copyrights, patents, and trade secrets.",
+                        "trade_secrets": "Non-public business information that provides a competitive advantage."
+                    },
+                    "nda": "Legally binding NDA required before employment. Prohibits sharing confidential information.",
+                    "obligations": [
+                        "Safeguard company data and use it solely for job-related purposes.",
+                        "Prevent unauthorized access with strong security measures.",
+                        "Return company materials upon termination and delete confidential data from personal devices."
+                    ],
+                    "post_employment": "Confidentiality obligations persist indefinitely.",
+                    "breach_consequences": [
+                        "Immediate termination.",
+                        "Legal action and claims for damages.",
+                        "Personal liability for losses."
+                    ],
+                    "policy_review": "Periodic reviews and amendments."
+                }
+            },
+            {
+                "title": "Leave and Holiday Policy",
+                "details": {
+                    "title": "Leave and Holiday Policy",
+                    "casual_leave": {
+                        "annual_allocation": "12 days per year",
+                        "application": "24 hours in advance unless emergency",
+                        "carry_forward": "No carryover, not encashable"
+                    },
+                    "privileged_leave": {
+                        "accrual": "1 day per month, max 12 days annually",
+                        "carry_forward": "Up to 30 days; excess may be encashed",
+                        "encashment": "Up to 10 days at year-end"
+                    },
+                    "sick_leave": {
+                        "annual_allocation": "12 days per year",
+                        "certification": "Required for leaves over 2 consecutive days",
+                        "carry_forward": "Not carried over, non-encashable"
+                    },
+                    "public_holidays": "Observes all national and regional holidays.",
+                    "additional_leave": {
+                        "maternity_paternity": "As per Maternity Benefit Act",
+                        "bereavement": "Up to 3 days",
+                        "special_leave": "Discretionary leave for exceptional cases"
+                    },
+                    "approval_process": {
+                        "submission": "Standard internal process",
+                        "approval": "Managerial discretion",
+                        "record_keeping": "Maintained by management team"
+                    }
+                }
+            },
+            {
+                "title": "Working Days and Timings",
+                "details": {
+                    "title": "Working Days and Timings",
+                    "working_days": "Monday to Saturday, Sunday off (unless required)",
+                    "work_timings": {
+                        "standard_hours": "9:00 AM to 6:00 PM",
+                        "core_hours": "10:00 AM to 4:00 PM",
+                        "flexibility": "No strict hourly quota, task-focused"
+                    },
+                    "remote_work": {
+                        "workspace": "Professional, interruption-free",
+                        "availability": "Mandatory during core hours"
+                    },
+                    "attendance": {
+                        "punctuality": "Essential, addressed in performance reviews"
+                    }
+                }
+            },
+            {
+                "title": "Travel and Lodging Policy",
+                "details": {
+                    "title": "Travel and Lodging Policy",
+                    "scope": "Applies to all business travel",
+                    "authorization": "Pre-approval required",
+                    "booking": {
+                        "channels": "Approved channels only",
+                        "lodging": "Approved hotels, adhering to safety standards"
+                    },
+                    "expenses": {
+                        "reimbursement": "Within 10 working days with receipts",
+                        "processing": "Next payroll cycle"
+                    },
+                    "safety": "Follow local laws, report emergencies immediately"
+                }
+            },
+            {
+                "title": "Non-Compete Policy",
+                "details": {
+                    "title": "Non-Compete Policy",
+                    "duration": "12 months post-termination",
+                    "obligations": [
+                        "No work for direct competitors.",
+                        "Mandatory disclosure of potential conflicts."
+                    ],
+                    "geographic_scope": "Territories where the company operates."
+                }
+            },
+            {
+                "title": "Parallel Employment Policy",
+                "details": {
+                    "title": "Parallel Employment Policy",
+                    "restrictions": "No part-time work without prior approval",
+                    "consequences": "Failure may lead to termination."
+                }
+            },
+            {
+                "title": "Workplace Ethics and Safety Policy",
+                "details": {
+                    "title": "Workplace Ethics and Safety Policy",
+                    "ethics": [
+                        "Integrity, professionalism, and respect.",
+                        "No discrimination or harassment."
+                    ],
+                    "safety": [
+                        "Adhere to safety protocols and evacuation procedures.",
+                        "Regular safety drills and assessments."
+                    ]
+                }
+            },
+            {
+                "title": "Prevention of Sexual Harassment (POSH) Policy",
+                "details": {
+                    "title": "Prevention of Sexual Harassment (POSH) Policy",
+                    "compliance": "In line with Prevention of Sexual Harassment Act",
+                    "reporting": {
+                        "process": "Confidential reporting to Internal Committee or management",
+                        "protection": "No retaliation for reporting"
+                    },
+                    "training": "Regular training sessions"
+                }
+            },
+            {
+                "title": "Data Ownership and Responsibilities",
+                "details": {
+                    "title": "Data Ownership and Responsibilities",
+                    "data_ownership": "All data on company systems belongs to the company.",
+                    "representing_company": [
+                        "Professional conduct in public and online representations.",
+                        "No sharing of confidential info on social media."
+                    ],
+                    "security": [
+                        "Use company-approved software.",
+                        "Report data breaches immediately."
+                    ]
+                }
+            },
+            {
+                "title": "Final Provisions",
+                "details": {
+                    "title": "Final Provisions",
+                    "review": "Periodic review and amendments",
+                    "compliance": "Employees must acknowledge changes."
+                }
+            }
+        ]
+    }
+}
